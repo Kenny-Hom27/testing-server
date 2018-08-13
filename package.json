@@ -18,11 +18,16 @@
   },
   "homepage": "https://github.com/Kenny-Hom27/testing-server#readme",
   "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
     "body-parser": "^1.18.3",
     "express": "^4.16.3",
+    "jwt-simple": "^0.5.1",
     "mongoose": "^5.2.7",
     "morgan": "^1.9.0",
     "nodemon": "^1.18.3",
-    "npm": "^6.3.0"
+    "npm": "^6.3.0",
+    "passport": "^0.4.0",
+    "passport-jwt": "^4.0.0",
+    "passport-local": "^1.0.0"
   }
 }
